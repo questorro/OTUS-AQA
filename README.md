@@ -1,1 +1,1 @@
-# THIS IS MY TEST REPOSITORY FOR LEARNING DEVELOPMEN IN PYTHON
+# This is my demo repository for learning Python
